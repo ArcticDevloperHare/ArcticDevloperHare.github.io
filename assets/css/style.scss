@@ -1,13 +1,13 @@
 ---
 ---
 
+@import "{{ site.theme }}";
+
 .sidebar {
   text-align: center;
 }
 
 
-
-@import "{{ site.theme }}";
 
 body {
   background-image: url('/assets/images/Tree.jpeg'), url('/assets/images/maple.jpeg');
