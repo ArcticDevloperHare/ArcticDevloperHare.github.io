@@ -164,8 +164,6 @@ export default {
   organizationName: 'ArcticDevloperHare',
   trailingSlash: false,
 
-  favicon: 'img/favicon.ico',
-
   presets: [
     [
       '@docusaurus/preset-classic',
