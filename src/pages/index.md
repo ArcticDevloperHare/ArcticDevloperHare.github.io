@@ -9,7 +9,7 @@ Explaining technologies from basics, writing Top of the Funnel to Bottom of the 
 
 ---
 
--  **Tech Stack**: JavaScript, Python, Postman, Docusaurus, Git, Github, Swagger UI (npm).
+-  **Tech Stack**: JavaScript, Docs-as-Code, Postman, Docusaurus, Git, Github, Swagger UI (npm).
 -  **Interests**:  DevOps, Cloud technologies, New Computer Interfaces.
 -  **Learning**: SEO, Cloud, Ruby, C, AI/ML Documentation.
 
